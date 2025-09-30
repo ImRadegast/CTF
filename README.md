@@ -1,0 +1,3 @@
+# Présentation du dépôt
+
+Ce dépôt a pour objectif de présenter et d'expliquer l'ensemble de mes projets réalisés dans le cadre de CTF (Capture The Flag) sur différentes plateformes telles que **HackTheBox**, **RootMe** et **TryHackMe**. Vous y trouverez des comptes-rendus détaillés, des solutions, ainsi que des explications sur les techniques et outils utilisés lors de mes résolutions de challenges.

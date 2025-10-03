@@ -22,14 +22,19 @@ L’administrateur réseau
 
 ## Reconnaissance
 
-### -- RFC 1918 -- 
+###  RFC 1918 
 
 Ma reconnaissance à débuter avec la lecture du document fournie par le challenge. C'est un document de la RFC (Request For Comments) se sont des documents officiels qui décrivent, spécifient ou proposent des standards, protocoles et bonnes pratiques pour Internet et les réseaux informatiques. 
 
 Ici le document était le [RFC 1918 : adresses privées pour réseaux internes](https://repository.root-me.org/RFC/EN%20-%20rfc1918.txt)
 
-En gros si j'ai bien compris sa parle des bonne pratique en matiere de résaux privée en entreprise pour ne pas saturer les adresses IPv4 ex :`192.168.0.1`.
 
+Si j'ai bien compris le document parle des bonne pratique en matiere de résaux privée en entreprise pour ne pas saturer les adresses IPv4.
+
+<details>
+  <summary><ins> Plus d'explication</summary>
+
+  
 Ils ont donc mis en place trois catégorie d'hotes :
 
 - `Catégorie 1 : Les utilisateur interne`, Sans besoin d'acces internet, une machine de production par exemple
@@ -40,22 +45,25 @@ Les deux première Catégorie sont considerer comme `Privée ` et la troisième 
 
 ![alt text](Réseau-privé-1-4005388108.png)
 
+
+</details>
+
  --- 
-###  -- Catégorie 2 : accès Internet depuis un réseau privé --
+###   Catégorie 2 : accès Internet depuis un réseau privé 
 
 
 
 
 ---
 
-### -- Spoofing -- 
+### Spoofing
 
 ---
 
 
 
 
-### Ce que j'ai appris
+### Ce que j'ai appris 
 - Existance des RCF
 - Fonctionnement des résaux privé
 

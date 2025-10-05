@@ -1,7 +1,5 @@
 <br />
 <div align="center">
-
-#  Writeups — CTF & Labs
  ```markdown
 # Bienvenue à tous ! 
 
